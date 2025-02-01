@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RitamKoley
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Backend using php and Mysql
+- 🌱 I’m currently Working on ...Web Developement with ASP Dot NET, SQL Server
 - 💞️ I’m looking to collaborate on ...Full Stack Web Developer
 - 📫 How to reach me ...ritamkoley73@gmail.com
 
